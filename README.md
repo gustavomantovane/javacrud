@@ -1,3 +1,3 @@
 # JavaCRUD
 
-<img src="./demo/crud.png" width="300">
+<img src="./demo/crud.png" width="800">
