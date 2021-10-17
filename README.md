@@ -2,7 +2,8 @@
 
 Antes de executar o código dentro de uma IDE (Eclipse é o mais recomendável), é necessário criar a seguinte estrutura dentro do MySQL:
 
-""" create database javacrud;
+```` 
+create database javacrud;
 
 create table clientes(
 	id int not null auto_increment,
@@ -14,7 +15,8 @@ create table clientes(
 	municipio varchar(255) not null,
 	UF char(2) not null,
 	primary key(id)
-); """
+);
+````
 
 ##Telas
 
